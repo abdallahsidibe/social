@@ -19,8 +19,7 @@ class PublicationController extends Controller
     public function index()
     {
         $publications = Publication::all();
-        $bool = true;
-        return view('influent.dashboard', compact('publications'));
+       return view('influent.dashboard', compact('publications'));       
     }
 
     public function store(Request $request)
@@ -28,7 +27,7 @@ class PublicationController extends Controller
         $request->validate([
             'title' => 'required|min:5',
             'contenu' => 'required|min:10',
-
+            
         ]);
 
         $publication = auth()->user()->publications()->create([
