@@ -16,8 +16,8 @@
     <script src="https://use.fontawesome.com/d03b8526a2.js"></script>
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/font-awesome.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/jquery.mCustomScrollbar.min.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('lib/slick/slick.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('lib/slick/slick-theme.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assetss/lib/slick/slick.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assetss/lib/slick/slick-theme.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/responsive.css') }}">
 
