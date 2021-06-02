@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/bootstrap.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/line-awesome.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/line-awesome-font-awesome.min.css') }}">
-    {{-- <link href="{{ asset('assetss/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css')}}"> --}}
+     <link href="{{ asset('assetss/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css')}}"> 
     <script src="https://use.fontawesome.com/d03b8526a2.js"></script>
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/font-awesome.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assetss/css/jquery.mCustomScrollbar.min.css') }}">
