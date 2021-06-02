@@ -15,8 +15,8 @@
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assetss/css/font-awesome.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assetss/css/jquery.mCustomScrollbar.min.css')}}">
-    <link rel="stylesheet" type="text/css" href="lib/slick/slick.css')}}">
-    <link rel="stylesheet" type="text/css" href="lib/slick/slick-theme.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('lib/slick/slick.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('lib/slick/slick-theme.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assetss/css/style.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assetss/css/responsive.css')}}">
     
